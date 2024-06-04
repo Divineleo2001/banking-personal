@@ -30,9 +30,6 @@
   border-radius: 2px;
 }
 
-.custom-scrollbar::-webkit-scrollbar-track {
-  background: #dddddd;
-}
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background: #5c5c7b;
